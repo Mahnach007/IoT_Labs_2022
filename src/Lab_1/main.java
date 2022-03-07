@@ -11,7 +11,7 @@ public class main {
 	    System.out.println(mono.toString());
 	    System.out.println(privat);
 	    System.out.println(alpha);
-	    System.out.println("ivan");
+	    
 	
 	}
 }
